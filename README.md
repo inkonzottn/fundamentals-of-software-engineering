@@ -1,2 +1,3 @@
-# fundamentals-of-software-engineering
-Хромова Анастасія 371
+# Student Info
+- Ініціали: Хромова А.А.
+- Група: 371
