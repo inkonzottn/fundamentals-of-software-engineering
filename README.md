@@ -1,2 +1,2 @@
-# OPI-Repo
-Основи програмної інженерії
+# fundamentals-of-software-engineering
+Хромова Анастасія 371
